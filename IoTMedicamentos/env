@@ -1,0 +1,5 @@
+MAIL_USERNAME=iot.navarro212@gmail.com
+MAIL_PASSWORD=qizdvqmbdmdxwzfm
+MAIL_ALERT=
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587
