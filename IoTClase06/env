@@ -1,0 +1,12 @@
+MQTT_BROKER=mosquitto
+#MQTT_BROKER=172.18.0.5
+MQTT_PORT=1884
+MQTT_TOPIC=iot/data
+MQTT_USER="mqttjj"
+MQTT_PASS="theJJpOy0kasUipi2026"
+UMBRAL_TEMPERATURA=26
+UMBRAL_HUMEDAD=80
+MAIL_USERNAME=iot.navarro212@gmail.com
+MAIL_PASSWORD=fqpsrpnnqtimlitj
+MAIL_ALERT=Navarrojuan212@gmail.com,canelafix@gmail.com,truan28@gmail.com
+

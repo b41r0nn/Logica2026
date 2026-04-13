@@ -1,0 +1,14 @@
+services:
+  alertas-iot:
+    build: .
+    container_name: alertas-iot
+    env_file:
+      - .env
+    networks:
+      - mqtt-stack_default
+    restart: unless-stopped
+    tty: true
+
+networks:
+  mqtt-stack_default:
+    external: true
